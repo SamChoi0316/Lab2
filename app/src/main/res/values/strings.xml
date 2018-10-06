@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="paper">Paper</string>
+    <string name="enter_you_name_to_start_the_game">Enter you name to start the game.</string>
+    <string name="name">Name</string>
+    <string name="scissors">Scissors</string>
+    <string name="stone">Stone</string>
+    <string name="start">Start</string>
+    <string name="xxx">XXX</string>
+    <string name="winner">Winner</string>
+    <string name="win">Win</string>
+    <string name="player">Player</string>
+    <string name="computer">Computer</string>
 </resources>
